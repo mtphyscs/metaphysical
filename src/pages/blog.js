@@ -33,6 +33,9 @@ const BlogPage = () => {
     <Layout>
       <Head title="Blog"/>
       <h1>Blog</h1>
+      <h2>
+       A non-chronological blog in which I write mostly about philosophy, art and design.
+      </h2>
      <ol className={blogStyles.posts}>
        {data.allMarkdownRemark.edges.map((edge)=>{
          return(
