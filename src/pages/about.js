@@ -29,6 +29,7 @@ const AboutPage = () => {
       </p>
 
       <h1>Who Am I</h1>
+      
 
       <p>
         I’m a creative thinker and maker based in Miami Beach, Florida;
